@@ -1,16 +1,80 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Surya Kumar Srivastava 👋</h1>
 
-<!--
-**Suryaaaa27/Suryaaaa27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI%20enthusiast%20|%20Full-Stack%20Developer%20|%20ML%20Engineer;Always%20learning%20and%20building%20🚀" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+🎓 I'm a **3rd Year B.Tech Computer Science (AIML)** student, passionate about building intelligent systems that create real-world impact.
+
+💡 I work on Machine Learning, Deep Learning, NLP, GANs, and Full-Stack Development projects.
+
+📍 Based in India | ✨ Open to internships, collaborations, and research opportunities.
+
+---
+
+## 🔥 What I'm Working On
+
+- 🎯 **GAN-based Fake Job Posting Detector**
+- 🛠️ **Automated Power Monitoring System** (YOLOv3 + Arduino + PyQt5)
+- 🧠 **AI-Powered Adaptive Learning System for Dyslexic Students**
+- 📄 **AI Resume Generator** – build smart resumes instantly!
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![YOLOv3](https://img.shields.io/badge/YOLOv3-CF202E?style=for-the-badge&logo=opencv&logoColor=white)
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+---
+
+## 📌 Pinned Projects
+
+🔹 [🔍 Text Summarization](https://github.com/Suryaaaa27/Text-Summarization) – Extractive NLP summarizer using ML  
+🔹 [🧠 AI Resume Generator](https://github.com/Suryaaaa27/AI-Resume-Generator) – Smart resume builder with HTML/CSS/JS  
+🔹 [📶 Automated Power Monitoring](https://github.com/Suryaaaa27/Automated-Power-Monitoring-System) – Smart control based on occupancy  
+🔹 [🎓 Personalized Learning System](https://github.com/Suryaaaa27/Personalized-Learning-System) – Adaptive educational platform  
+🔹 [🔐 Job Fraud Detector](https://github.com/Suryaaaa27/Job-Fraud-Detector) – Filter fake job offers using ML
+
+---
+
+## 📫 Let’s Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/surya-srivastava)
+- 💼 Portfolio: _Coming Soon_ 🚧
+- ✉️ Email: `suryakumarsri3@gmail.com`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suryaaaa27&show_icons=true&theme=radical&count_private=true" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryaaaa27&theme=radical" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryaaaa27&layout=compact&theme=radical" width="400"/>
+</p>
+
+---
+
+## ☕ Fun Fact
+
+> “I love turning ideas into code and solving real-life problems using Artificial Intelligence 💻✨”
+
+---
+
+⭐ _If you liked my work, consider giving a ⭐ to one of my projects and following me on GitHub!_
+
