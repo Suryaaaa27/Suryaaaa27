@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Surya Kumar Srivastava 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI%20enthusiast%20|%20Full-Stack%20Developer%20|%20ML%20Engineer;Always%20learning%20and%20building%20🚀" />
+  <img src="[https://readme-typing-svg.demolab.com/?lines=AI%20enthusiast%20|%20Full-Stack%20Developer%20|%20ML%20Engineer;Always%20learning%20and%20building%20🚀](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnh8s4drpvhzatodmW3ew5XDTnMxrF7ejSDYTpEwgoYpTaxkDvE0PLh96tYlxwlH-x1mA&usqp=CAU)" />
 </p>
 
 ---
