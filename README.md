@@ -52,7 +52,7 @@
 ## 📫 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/surya-srivastava)
-- 💼 Portfolio: _Coming Soon_ 🚧
+- 💼 Portfolio: https://suryaaaa27.netlify.app/
 - ✉️ Email: `srivastavasurya0111@gmail.com`
 
 ---
