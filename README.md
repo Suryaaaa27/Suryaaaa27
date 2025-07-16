@@ -41,7 +41,7 @@
 
 ## 📌 Pinned Projects
 
-🔹 [🔍 Text Summarization](https://github.com/Suryaaaa27/Text-Summarization) – Extractive NLP summarizer using ML  
+🔹 [🔍 Tably](https://github.com/Suryaaaa27/Tably.git) –   
 🔹 [🧠 AI Resume Generator](https://github.com/Suryaaaa27/AI-Resume-Generator) – Smart resume builder with HTML/CSS/JS  
 🔹 [📶 Automated Power Monitoring](https://github.com/Suryaaaa27/Automated-Power-Monitoring-System) – Smart control based on occupancy  
 🔹 [🎓 Personalized Learning System](https://github.com/Suryaaaa27/Personalized-Learning-System) – Adaptive educational platform  
