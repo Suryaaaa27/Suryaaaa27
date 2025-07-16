@@ -41,8 +41,8 @@
 
 ## 📌 Pinned Projects
 
-🔹 [🔍 Tably](https://github.com/Suryaaaa27/Tably.git) –   
-🔹 [🧠 AI Resume Generator](https://github.com/Suryaaaa27/AI-Resume-Generator) – Smart resume builder with HTML/CSS/JS  
+🔹 [🔍 Tably](https://github.com/Suryaaaa27/Tably.git) – A lightweight and powerful Android-based restaurant management system
+🔹 [🧠 Uplyft E-Commerce Chatbot](https://github.com/Suryaaaa27/AI-Resume-Generator) – Smart resume builder with HTML/CSS/JS  
 🔹 [📶 Automated Power Monitoring](https://github.com/Suryaaaa27/Automated-Power-Monitoring-System) – Smart control based on occupancy  
 🔹 [🎓 Personalized Learning System](https://github.com/Suryaaaa27/Personalized-Learning-System) – Adaptive educational platform  
 🔹 [🔐 Job Fraud Detector](https://github.com/Suryaaaa27/Job-Fraud-Detector) – Filter fake job offers using ML
