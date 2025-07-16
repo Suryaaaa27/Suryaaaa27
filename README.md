@@ -42,7 +42,7 @@
 ## 📌 Pinned Projects
 
 🔹 [🔍 Tably](https://github.com/Suryaaaa27/Tably.git) – A lightweight and powerful Android-based restaurant management system
-🔹 [🧠 Uplyft E-Commerce Chatbot](https://github.com/Suryaaaa27/uplyft-ecommerce-chatbot.git) – Smart resume builder with HTML/CSS/JS  
+🔹 [🧠 Uplyft E-Commerce Chatbot](https://github.com/Suryaaaa27/uplyft-ecommerce-chatbot.git) – Chatbot allowing users to search for products by name or category and displays results in a conversational UI.  
 🔹 [📶 Automated Power Monitoring](https://github.com/Suryaaaa27/Automated-Power-Monitoring-System) – Smart control based on occupancy  
 🔹 [🎓 Personalized Learning System](https://github.com/Suryaaaa27/Personalized-Learning-System) – Adaptive educational platform  
 🔹 [🔐 Job Fraud Detector](https://github.com/Suryaaaa27/Job-Fraud-Detector) – Filter fake job offers using ML
