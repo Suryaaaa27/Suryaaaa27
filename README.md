@@ -43,7 +43,7 @@
 
 🔹 [🔍 Tably](https://github.com/Suryaaaa27/Tably.git) – A lightweight and powerful Android-based restaurant management system
 
-🔹 [♻️ WasteWatchers](https://github.com/Suryaaaa27/wastewatchers.git) – Chatbot allowing users to search for products by name or category and displays results in a conversational UI.  
+🔹 [♻️ WasteWatchers](https://github.com/Suryaaaa27/wastewatchers.git) – AI-powered smart waste management system that detects, classifies, and guides eco-friendly disposal while rewarding users with eco-points.
 
 🔹 [📶 Automated Power Monitoring](https://github.com/Suryaaaa27/Automated-Power-Monitoring-System) – Smart control based on occupancy  
 
